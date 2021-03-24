@@ -1,0 +1,5 @@
+numTriangles: 150
+populationSize: 10
+crossoverRate: 0.25
+mutation: 0.1
+generations: 2500
